@@ -39,11 +39,5 @@ Dokumentasi dan desain di dalam folder ini merupakan rekonstruksi dari pengalama
 
 Portfolio ini bertujuan untuk menunjukkan proses berpikir, kemampuan analisis, dan pendekatan sistematis saya dalam merancang dan mengembangkan solusi digital.
 
----
-
-📬 Jika Anda memerlukan informasi tambahan atau klarifikasi, saya siap menjelaskan lebih lanjut dalam sesi wawancara atau diskusi.
-
-Terima kasih atas waktunya 🙏
-
 — Wahyu Septika
 
